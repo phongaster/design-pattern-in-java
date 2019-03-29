@@ -15,6 +15,7 @@
         <module>facade</module>
         <module>factorymethod</module>
         <module>proxy</module>
+        <module>singleton</module>
     </modules>
 
 
